@@ -1,1 +1,1 @@
-worker: python steve-bot-test.py
+worker: python discord bot.py
