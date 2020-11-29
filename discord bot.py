@@ -3,7 +3,7 @@ import functools
 import itertools
 import math
 import random
-inport os
+import os
 
 import discord
 import youtube_dl
